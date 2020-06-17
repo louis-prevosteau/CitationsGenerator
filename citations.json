@@ -10,6 +10,11 @@
         "citation" : "Parce que c'est notre projet !"
     },
     {
+        "avatar" : "img/macron-guerre.gif",
+        "nom" : "Emmanuel Macron",
+        "citation" : "Nous sommes en guerre."
+    },
+    {
         "avatar" : "img/perlimpinpin.jpg",
         "nom" : "Emmanuel Macron",
         "citation" : "C'est de la poudre de perlimpinpin."
@@ -18,6 +23,16 @@
         "avatar" : "img/taisez-vous.png",
         "nom" : "Alain Finkielkraut",
         "citation" : "Taisez-vous !"
+    },
+    {
+        "avatar" : "img/remontada.gif",
+        "nom" : "Stéphane Guy",
+        "citation" : "Nooooon ! C'st pas possible !"
+    },
+    {
+        "avatar" : "img/tnul.jpg",
+        "nom" : "Mohamed Henni",
+        "citation" : "T'es nul !"
     },
     {
         "avatar" : "img/jonathan.jpg",
@@ -72,12 +87,17 @@
     {
         "avatar" : "img/clapbonjour.jpg",
         "nom" : "Amixem",
-        "citation" : "Jouons tous enssemble à un petit jeu !"
+        "citation" : "Jouons tous ensemble à un petit jeu !"
     },
     {
         "avatar" : "img/faux.gif",
         "nom" : "Norman",
         "citation" : "FAUX !"
+    },
+    {
+        "avatar" : "img/routourne.jpg",
+        "nom" : "Franck Ribéry",
+        "citation" : "J'espère que la routourne va tourner."
     },
     {
         "avatar" : "img/mernoire.gif",
