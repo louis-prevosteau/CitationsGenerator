@@ -1,0 +1,35 @@
+header{
+    background-color: aqua;
+    color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#avatar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#citation{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#author{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#btn{
+    width: 180px;
+    height: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkred;
+    color: white;
+    border-color: white;
+    border-radius: 50%;
+}

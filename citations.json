@@ -1,0 +1,102 @@
+[
+    {
+        "avatar" : "img/jeanne.jpg",
+        "nom" : "Jean-Marie Le Pen",
+        "citation" : "Jeanne, Au Secours !"
+    },
+    {
+        "avatar" : "img/macron-projet.jpg",
+        "nom" : "Emmanuel Macron",
+        "citation" : "Parce que c'est notre projet !"
+    },
+    {
+        "avatar" : "img/perlimpinpin.jpg",
+        "nom" : "Emmanuel Macron",
+        "citation" : "C'est de la poudre de perlimpinpin."
+    },
+    {
+        "avatar" : "img/taisez-vous.png",
+        "nom" : "Alain Finkielkraut",
+        "citation" : "Taisez-vous !"
+    },
+    {
+        "avatar" : "img/jonathan.jpg",
+        "nom" : "Jonathan",
+        "citation" : "Qu'est-ce qui est jaune et qui attend ? ... Jonathan"
+    },
+    {
+        "avatar" : "img/ah.jpg",
+        "nom" : "Denis Brogniart",
+        "citation" : "Ah !"
+    },
+    {
+        "avatar" : "img/contrenature.jpg",
+        "nom" : "Anonyme",
+        "citation" : "Mais c'est contre-nature han !"
+    },
+    {
+        "avatar" : "img/contrenature.jpg",
+        "nom" : "Anonyme",
+        "citation" : "Oh la la c'est la décadence han !"
+    },
+    {
+        "avatar" : "img/honteux.gif",
+        "nom" : "René Malleville",
+        "citation" : "C'est honteux !"
+    },
+    {
+        "avatar" : "img/cartman.jpg",
+        "nom" : "Eric Cartman",
+        "citation" : "Je vous emmerde et je rentre à ma maison."
+    },
+    {
+        "avatar" : "img/kenny.jpg",
+        "nom" : "Kyle Broflovski",
+        "citation" : "Oh mon dieu ! Ils ont tué Kenny !"
+    },
+    {
+        "avatar" : "img/gogol.jpg",
+        "nom" : "Mme Garrison",
+        "citation" : "Oh Oh Alerte aux gogoles !"
+    },
+    {
+        "avatar" : "img/meryem.jpg",
+        "nom" : "Meryem",
+        "citation" : "Je suis pas venu ici pour souffrir OK !"
+    },
+    {
+        "avatar" : "img/clapbonjour.jpg",
+        "nom" : "Amixem",
+        "citation" : "Clap Bonjour !"
+    },
+    {
+        "avatar" : "img/clapbonjour.jpg",
+        "nom" : "Amixem",
+        "citation" : "Jouons tous enssemble à un petit jeu !"
+    },
+    {
+        "avatar" : "img/faux.gif",
+        "nom" : "Norman",
+        "citation" : "FAUX !"
+    },
+    {
+        "avatar" : "img/mernoire.gif",
+        "nom" : "Anonyme",
+        "citation" : "C'est la mer noire."
+    },
+    {
+        "avatar" : "img/wow.gif",
+        "nom" : "Anonyme",
+        "citation" : "Wow !"
+    },
+    {
+        "avatar" : "img/pioupiou.jpg",
+        "nom" : "Anonyme",
+        "citation" : "Mon pioupiou il est mort !"
+    },
+    {
+        "avatar" : "img/invasor.gif",
+        "nom" : "Marine Le Pen",
+        "citation" : "Ils sont là. Ils sont dans les campagnes et dans les villes. Ils sot sur les réseaux sociaux."
+    }
+]
