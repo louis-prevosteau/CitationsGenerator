@@ -118,5 +118,10 @@
         "avatar" : "img/invasor.gif",
         "nom" : "Marine Le Pen",
         "citation" : "Ils sont là. Ils sont dans les campagnes et dans les villes. Ils sot sur les réseaux sociaux."
+    },
+    {
+        "avatar" : "img/carlito.jpg",
+        "nom" : "Mcfly et Carlito",
+        "citation" : "Comment vont-je ? Donnez-moi des nouvelles de moi."
     }
 ]
