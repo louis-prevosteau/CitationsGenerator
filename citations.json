@@ -123,5 +123,25 @@
         "avatar" : "img/carlito.jpg",
         "nom" : "Mcfly et Carlito",
         "citation" : "Comment vont-je ? Donnez-moi des nouvelles de moi."
+    },
+    {
+        "avatar" : "img/malou.jpg",
+        "nom" : "Eddy Malou",
+        "citation" : "Mais oui c'est clair !"
+    },
+    {
+        "avatar" : "img/melissandre.jpg",
+        "nom" : "La mère de Mélissandre",
+        "citation" : "Tu es grosse Mélissandre."
+    },
+    {
+        "avatar" : "img/biscotte.jpg",
+        "nom" : "OSS 117",
+        "citation" : "J'aime me beurrer la biscotte."
+    },
+    {
+        "avatar" : "img/melius.jpg",
+        "nom" : "Anonyme",
+        "citation" : "La question elle est vite répondue."
     }
 ]
