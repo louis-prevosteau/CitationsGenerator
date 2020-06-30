@@ -143,5 +143,25 @@
         "avatar" : "img/melius.jpg",
         "nom" : "Anonyme",
         "citation" : "La question elle est vite répondue."
+    },
+    {
+        "avatar" : "img/kevin.jpg",
+        "nom" : "Ines Reg",
+        "citation" : "Les calculs sont pas bon Kévin !"
+    },
+    {
+        "avatar" : "img/kevin.jpg",
+        "nom" : "Ines Reg",
+        "citation" : "C'est quand que tu vas mettre des paillettes dans ma vie Kévin ?"
+    },
+    {
+        "avatar" : "img/kevin.jpg",
+        "nom" : "Ines Reg",
+        "citation" : "Kévin tu me dégoutes !"
+    },
+    {
+        "avatar" : "img/milla.jpg",
+        "nom" : "Les marseillais",
+        "citation" : "Y a le mec à Milla !"
     }
 ]
